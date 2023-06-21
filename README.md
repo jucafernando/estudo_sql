@@ -8,6 +8,11 @@ from sales.customers
 where state = 'MG'
 order by city limit 10
 
+#### Sem a função distinct
+
+![image](https://github.com/jucafernando/estudo_sql/assets/21082881/df5d61f0-c011-4026-b621-eefd332d4f61)
+
+#### Com a função distinct
 
 ![image](https://github.com/jucafernando/estudo_sql/assets/21082881/99712aaa-8492-4c74-a3e0-ecf1d0414a0c)
 
